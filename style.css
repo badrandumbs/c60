@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+img{
+    height: 300px;
+   border-color: firebrick; 
+  border-style: solid;  
+}
+
+img:hover{
+    transform: scale(1.2)
+}
+
+.line{
+    height: 15px;
+    background-color: black;
+    width: 75px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+#app{
+    background-color: aquamarine
+}
+
+#game{
+    background-color: rebeccapurple;
+}
+
+#chat{
+    background-color: blue
+}
